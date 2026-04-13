@@ -17,7 +17,7 @@ Steps:
 6. View the segmented output 
  
 3. 🔗 Deployment
-Live project link: <your deployed link>
+Live project link: https://saivarsha855-ui.github.io/Flood-area-segmentation/
 
 
 4. 📊 Output
